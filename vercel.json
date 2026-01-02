@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+        {
+            "source": "/(.*)",
+            "destination": "/gochat/dist/index.html"
+        }
+    ],
+    "outputDirectory": "gochat/dist"
+}
